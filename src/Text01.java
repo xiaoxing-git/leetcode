@@ -7,6 +7,7 @@ public class Text01 {
         int a[]={3,2,4};
         int t=6;
 	//text03
+	//text04
         System.out.println(text01.twoSum(a,t));
 
     }
