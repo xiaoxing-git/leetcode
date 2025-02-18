@@ -24,5 +24,6 @@ public class Text24 {
         }
         //返回最大值
         return max;
+        //测试push速度
     }
 }
